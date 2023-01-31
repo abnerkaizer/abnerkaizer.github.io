@@ -6,6 +6,8 @@ img {
 }
 body{
   text-align: center;
+  background-color: black;
+  color: white;
 }
 div{
   font-family: "montserrat";
