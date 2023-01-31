@@ -4,6 +4,9 @@ img {
   padding: 5px;
   width: 150px;
 }
+body{
+  text-align: center;
+}
 div{
   font-family: "montserrat";
 }
