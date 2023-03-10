@@ -11,10 +11,10 @@
     p{
         margin: 0 auto;
     }
-    img{
-        display: none;
-    }
     body{
+        text-align: center;
+    }
+    img{
         text-align: center;
     }
 }
