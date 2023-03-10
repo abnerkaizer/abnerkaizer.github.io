@@ -12,8 +12,16 @@ header{
     justify-content: space-between;
     align-items: center;
 }
+li{
+    display: inline-block;
+    margin: 20px;
+}
 #title{
     color:rgb(226, 217, 84);
+}
+#imagem{
+    width: 50px;
+    height:50px;
 }
 main{
     display: flex;
