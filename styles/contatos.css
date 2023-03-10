@@ -25,9 +25,9 @@ main{
     display: flex;
     flex-direction: row;
     font-size: 36px;
-    justify-content: space-between;
+    justify-content: space-around;
     margin: 15px;
-    width: 25%;
+    row-gap: 15px;
 }
 a{
     
