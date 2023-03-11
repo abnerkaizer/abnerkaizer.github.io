@@ -25,13 +25,6 @@ main{
     margin-top: 50px;
     justify-content: space-between;
 }
-#icons{
-    display: flex;
-    flex-direction: row;
-    font-size: 36px;
-    justify-content: space-between;
-    margin: 15px;
-}
 a{
     
     color: white;

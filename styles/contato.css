@@ -30,15 +30,17 @@ main{
     margin-top: 50px;
     justify-content: space-between;
 }
-#icons{
+div{
     display: flex;
     flex-direction: row;
+}
+#icons{
     font-size: 36px;
-    justify-content: space-between;
     margin: 15px;
+    padding: 30px;
 }
 a{
-    padding: 30px;
+    
     color: white;
     text-decoration: none;
 }
