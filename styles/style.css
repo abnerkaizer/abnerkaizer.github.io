@@ -25,8 +25,9 @@ h1{
     font-weight: 200;
 }
 h2{
-    font-weight: 200;
-    font-size: 32px;
+    font-size: 56px;
+    line-height: 40px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 main{
     display: flex;
