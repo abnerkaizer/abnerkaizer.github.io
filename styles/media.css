@@ -73,12 +73,14 @@
     }
     .menu__box {
         display: flex;
-        position: absolute;
+        position: fixed;
         flex-direction: column;
+        top: 0;
         right: -100%;
         width: 150px;
         height: 100%;
-        margin: -10px;
+        margin: 10px;
+        list-style: none;
         background-color: #0f0f0f;
         transition-duration: .25s;
     }

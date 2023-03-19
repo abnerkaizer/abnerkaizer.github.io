@@ -17,9 +17,7 @@ header{
     line-height: 10px;
     
 }
-nav {
-    display: none;
-}
+
 li{
     display: inline-block;
     margin: 20px;
