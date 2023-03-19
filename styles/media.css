@@ -78,8 +78,9 @@
         top: 0;
         right: -100%;
         width: 150px;
-        height: 25%;
-        margin: 10px;
+        height: 5%;
+        margin: 0;
+        padding: 0;
         list-style: none;
         background-color: #0f0f0f;
         transition-duration: .25s;
@@ -89,7 +90,8 @@
         color: white;
         font-family: Arial, Helvetica, sans-serif;
         font-size: 20px;
-        padding: 0px;
+        margin: 0;
+        padding: 0;
         font-weight: 300;
         text-decoration: none;
         transition-duration: .25s;
