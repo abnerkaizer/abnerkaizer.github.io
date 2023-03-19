@@ -73,14 +73,12 @@
     }
     .menu__box {
         display: flex;
-        position: fixed;
+        position: absolute;
         flex-direction: column;
-        top: 0;
         right: -100%;
         width: 150px;
         height: 100%;
-        margin: 0;
-        padding: 5px;
+        margin: -10px;
         background-color: #0f0f0f;
         transition-duration: .25s;
     }
@@ -89,7 +87,7 @@
         color: white;
         font-family: Arial, Helvetica, sans-serif;
         font-size: 20px;
-        font-weight: 600;
+        font-weight: 300;
         text-decoration: none;
         transition-duration: .25s;
     }
