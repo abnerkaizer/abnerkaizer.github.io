@@ -19,6 +19,9 @@ li{
 #title{
     color:rgb(226, 217, 84);
 }
+.hamburger-menu{
+    display: none;
+}
 img{
     border: 1px solid #ddd;
     border-radius: 4px;

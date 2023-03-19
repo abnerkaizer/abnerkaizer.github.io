@@ -34,6 +34,9 @@ div{
     display: flex;
     flex-direction: row;
 }
+.hamburger-menu{
+    display: none;
+}
 #icons{
     font-size: 36px;
     margin: 15px;

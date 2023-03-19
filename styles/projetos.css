@@ -25,6 +25,9 @@ main{
     margin-top: 50px;
     justify-content: space-between;
 }
+.hamburger-menu{
+    display: none;
+}
 a{
     
     color: white;
