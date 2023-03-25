@@ -17,9 +17,6 @@
     .foto{
         display: flex;
     }
-    img{
-        display: none;
-    }
     .list{
         display: none;
     }
